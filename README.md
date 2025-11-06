@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 Install firebase-cli
 ```npm install -g firebase-tools
 ```
